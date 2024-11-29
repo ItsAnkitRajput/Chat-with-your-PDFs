@@ -81,7 +81,7 @@ LLAMA 2: Language model used for generating responses.
 
 
 # 📬 Contact
-Author: Ankit Raput
+Author: Ankit Rajput
 
 Email: work.itsankitrajput.email@gmail.com
 

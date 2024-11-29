@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+
+.env
+.venv/
+myenv/
+
+*.log
+
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+faiss_index/
+
+.streamlit/

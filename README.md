@@ -51,6 +51,7 @@ streamlit run app.py
 
 # 📂 Project Structure
 Chat-with-your-PDFs/
+
 ├── app.py                                # Main application code
 
 ├── requirements.txt                      # Python dependencies

@@ -58,9 +58,13 @@ Chat-with-your-PDFs/
 
 # ⚙️ Technologies Used
 Streamlit: For building the web application interface.
+
 FAISS: For efficient vector similarity search.
+
 LangChain: To manage chains for question answering.
+
 Sentence-Transformers: For generating embeddings from text.
+
 LLAMA 2: Language model used for generating responses.
 
 

@@ -33,7 +33,7 @@ Before running the application, make sure you have the following installed:
 
 # Create a Virtual Environment
 - python -m venv myenv
-- source myenv/bin/activate  # On Windows: myenv\Scripts\activate
+- On Windows: myenv\Scripts\activate
 
 # Install Dependencies
 - pip install -r requirements.txt

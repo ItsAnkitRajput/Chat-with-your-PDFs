@@ -29,8 +29,9 @@ https://ollama.com/download
 - source myenv/bin/activate  # On Windows: myenv\Scripts\activate
 
 # Install Dependencies
-pip install -r requirements.txt
-Download the LLAMA 2 Model
+- pip install -r requirements.txt
+
+# Download the LLAMA 2 Model
 - https://ollama.com/download
 - Go to terminal and type "ollama run "name of model""
 - ollama run llama2:7b-chat-q2_K

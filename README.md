@@ -51,19 +51,17 @@ streamlit run app.py
 
 # 📂 Project Structure
 Chat-with-your-PDFs/
-├── app.py                     # Main application code
+├── app.py                                # Main application code
 
-├── requirements.txt           # Python dependencies
+├── requirements.txt                      # Python dependencies
 
-├── README.md                  # Project documentation
+├── README.md                             # Project documentation
 
-├── .gitignore                 # Ignored files list
+├── .gitignore                            # Ignored files list
 
-├── example_data/              # Sample data folder
+├── example_data/Marcus_Aurelius.pdf      # Example PDF file
 
-    └── Marcus_Aurelius.pdf    # Example PDF file
-
-├── screenshots/               # Screenshots of the project
+├── screenshots/                          # Screenshots of the project
 
 # 🧪 How to Use
 - Run the application with the streamlit command.
